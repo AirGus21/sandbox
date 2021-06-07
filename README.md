@@ -1,5 +1,10 @@
 # sandbox
 
-The Master branch
+Site Branch:
 
-Edit in the github site!
+Goals:
+2- Add text to each column
+3- Create Banner
+
+Accomplished:
+1- Create 3 (RGB) columns
